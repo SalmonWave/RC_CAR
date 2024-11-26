@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LIB_AI_SOC")(type "KiCad")(uri "E:/KICAD/LIB_AI_SOC/LIB_AI_SOC.kicad_sym")(options "")(descr ""))
+  (lib (name "nucleo64-f411re_AI_SOC")(type "KiCad")(uri "E:/KICAD/LIB_AI_SOC/nucleo64-f411re_AI_SOC.kicad_sym")(options "")(descr ""))
+  (lib (name "HC_SR04")(type "KiCad")(uri "E:/KICAD/LIB_AI_SOC/HC_SR04.kicad_sym")(options "")(descr ""))
+)
